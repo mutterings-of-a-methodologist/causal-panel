@@ -1,4 +1,4 @@
-# German Restaurant VAT Cut (19% → 7%): A Simulated Dining-Behavior Study
+# A Simulated Dining-Behavior Study
 
 An independent portfolio project. It asks: **how would a permanent cut in VAT on restaurant food change diner behavior, and which diners would respond most?** It answers with a difference-in-differences (DiD) analysis and an honest causal forest on **simulated** data with known effects, so the estimators can be checked against the truth.
 
